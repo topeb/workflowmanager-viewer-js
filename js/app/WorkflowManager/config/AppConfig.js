@@ -8,7 +8,7 @@ define(function() {
 		    ServiceRoot: "http://workflowsample.esri.com/arcgis/rest/services/Workflow/WMServer",
 		    UseTokenAuthentication: false,
 		    TokenService: "https://your-server/arcgis/tokens",
-		    DefaultUser: "demo",
+		    DefaultUser: "cjones",
 		    jobAOILayer: {
                 type: "feature",
                 url: "http://workflowsample.esri.com/arcgis/rest/services/AOI/MapServer/0",
